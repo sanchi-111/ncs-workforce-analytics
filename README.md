@@ -101,5 +101,4 @@ To evaluate multi-year temporal trends (2023–2025) within India's National Car
 **Sanchi Gupta** | Data Analyst | SQL | Tableau | Python  
 * Github:https://github.com/sanchi-111
 * LinkedIn:https://www.linkedin.com/in/sanchigupta21
-* **GitHub Profile:** https://x.com/Sanchi_Analyst  
 * **Tableau Profile:** https://public.tableau.com/app/profile/sanchi.gupta3955
